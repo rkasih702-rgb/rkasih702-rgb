@@ -57,8 +57,11 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vickoharvioni12-web/vickoharvioni12-web/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vickoharvioni12-web/vickoharvioni12-web/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vickoharvioni12-web/vickoharvioni12-web/output/github-contribution-grid-snake.svg">
   </picture>
+</p>
+
+<p align="center">
+  <img src="./motd.svg" alt="GitHub contributions" />
 </p>
 
 ---
