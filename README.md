@@ -5,7 +5,7 @@
 <!-- Terminal Typing Animation -->
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&width=600&height=100&lines=const+developer+%3D+new+FrontendDeveloper('Kasih')%3B;developer.buildResponsiveUIs()%3B;developer.optimizeUserExperience()%3B" alt="Terminal Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hello,+I'm+Kasih%3B;i'm+here+for+you+%F0%9F%A4%9D%3B" alt="Terminal Typing Animation" />
   </a>
 </p>
 
@@ -42,7 +42,7 @@
 
 ### ⚡ System Skill Status
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b26&stroke=ff4d4d&strokeWidth=2&height=120&section=header&text=UI%2FUx%20%E2%80%A2%20Responsive%20Design%20%E2%80%A2%20Interactive%20Apps&fontSize=20&fontColor=ffffff&fontFamily=Fira+Code&animation=twinkle" width="100%" alt="System Status" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b26&stroke=ff4d4d&strokeWidth=2&height=120&section=header&text=UI%2FUX%20%E2%80%A2%20Responsive%20Design%20%E2%80%A2%20Interactive%20Apps&fontSize=20&fontColor=ffffff&fontFamily=Fira+Code&animation=twinkle" width="100%" alt="System Status" />
 </p>
 
 ---
@@ -51,6 +51,14 @@
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=vickoharvioni12-web&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vickoharvioni12-web&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vickoharvioni12-web/vickoharvioni12-web/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vickoharvioni12-web/vickoharvioni12-web/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vickoharvioni12-web/vickoharvioni12-web/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
