@@ -5,7 +5,7 @@
 <!-- Terminal Typing Animation -->
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hello,+I'm+Kasih%3B;i'm+here+for+you+G+%F0%9F%A4%9D%3B" alt="Terminal Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hello,+I'm+Kasih%3B;i'm+here+for+you+G+%F0%9F%92%96%3B" alt="Terminal Typing Animation" />
   </a>
 </p>
 
